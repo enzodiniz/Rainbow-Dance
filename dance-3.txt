@@ -1,0 +1,1 @@
+Arquivo para fazer commit com o editor de código.
